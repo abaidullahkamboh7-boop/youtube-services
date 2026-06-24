@@ -1,0 +1,6 @@
+{
+  "name": "Free YouTube Services",
+  "description": "A 100% free app featuring interactive promotion campaigns and AI-powered SEO optimization tools to organically grow YouTube views, subscribers, likes, and comments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
